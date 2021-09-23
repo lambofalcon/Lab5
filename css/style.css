@@ -3,8 +3,11 @@
 body{
   background-color: lightblue;
   /* set width to 80% */
+  width: 80%;
   /* set margin-left to auto */
+  margin-left: auto;
   /* set margin-right to auto */
+  margin-right: auto;
 }
 
 header{
@@ -14,8 +17,11 @@ header{
 
 /*create caption class */
   /* inside caption class set float property to left */
+  float property: left;
   /* inside caption class set text-align property to center */
+  text-align: center;
   /* inside caption class set margin-right property to 20% */
+  margin-right property: 20%;
 
 nav{
   font-family:Calibri, Arial,sans-serif;
@@ -23,10 +29,15 @@ nav{
   font-weight:bold;
   text-align:center;
   /* set margin-top to 20px */
+  margin-top: 20px;
   /* set margin-bottom to 30px */
+  margin-bottom: 30px;
   /* set padding to 10px */
+  padding: 10px;
   /* set border-top to 5px solid #FFFFFF */
+  border-top: 5px solid #FFFFFF;
   /* set border-bottom to 5px solid #FFFFFF */
+  border-bottom: 5px solid #FFFFFF;
 }
 
 
@@ -35,17 +46,29 @@ nav{
   font-family:Calibri, Arial,sans-serif;
   font-size:1em;
   /* set margin-top to 20px  */
+  margin-top: 20px;
   /* set margin-bottom to 10px  */
+  margin-bottom: 10px;
   /* set padding to 20px  */
+  padding: 20px;
   /* set border-radius to 10px  */
+  border-radius: 10pc;
   /* set background-color:#FFFFFF; */
+  background-color:#FFFFFF;
   /* set box-shadow:12px 12px 12px #404040; */
+  box-shadow: 12px 12px 12px #404040;
+
+
+
 }
 
 /* Style a footer  */
   /*set font-size to .70em  */
+  font-size; .70em;
   /*set text-align to center */
+  text-align: center;
   /*set margin-top to 150px */
+  margin-top: 150px;
 
 
 
@@ -54,7 +77,9 @@ nav{
 
   /*create column class */
   /*set float property to left  */
+  float property: left;
   /*set padding-left property to 10%  */
+  padding-left property: 10%;
 
 .row::after {
     content: "";
